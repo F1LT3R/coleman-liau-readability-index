@@ -1,0 +1,10 @@
+sudo: false
+language: node_js
+node_js:
+  - "7"
+install:
+  - "yarn install"
+test:
+  - "yarn test"
+after_success:
+  - npm run coveralls

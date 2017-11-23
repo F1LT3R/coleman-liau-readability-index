@@ -1,0 +1,12 @@
+verbose: true
+instrumentation:
+    root: ./lib
+    extensions:
+        - .js
+    default-excludes: true
+    excludes: ["*.spec.js", "**/*.spec.js"]
+    include-all-sources: true
+reporting:
+    print: both
+    reports:
+        - lcov
