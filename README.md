@@ -1,6 +1,10 @@
 # Coleman Liau Readability Index
 
-Calculates the Coleman Liau readability index of a peice of text.
+> Calculates the Coleman Liau readability index of a peice of text.
+
+## About
+
+You can learn more about why I put this together in the blog post: [Coleman-Liau Readability Index](https://f1lt3r.io/coleman-liau-readability-index/)
 
 ## Installation
 
@@ -25,7 +29,5 @@ Run tests
 ```shell
 yarn test
 ```
-
-
 
 
