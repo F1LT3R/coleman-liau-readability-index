@@ -1,4 +1,31 @@
-# node-bdd-cookie-cutter
-Cookie Cutter Repo for Behavior Driven Testing in Node.js with Promises
+# Coleman Liau Readability Index
 
-[![Coverage Status](https://coveralls.io/repos/github/F1LT3R/node-bdd-cookie-cutter/badge.svg?branch=changes)](https://coveralls.io/github/F1LT3R/node-bdd-cookie-cutter?branch=changes)
+Calculates the Coleman Liau readability index of a peice of text.
+
+## Installation
+
+Checkout the code
+
+```shell
+git clone git@github.com:f1lt3r/coleman-liau-readability-index.git
+```
+
+Install packages
+
+```shell
+cd coleman-liau-readability-index
+
+yarn install
+```
+
+## Usage
+
+Run tests
+
+```shell
+yarn test
+```
+
+
+
+
